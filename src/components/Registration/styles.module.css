@@ -1,0 +1,25 @@
+.registrationForm {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  width: 300px;
+  padding: 50px;
+}
+
+.registrationForm .adress {
+  margin-top: 10px;
+  width: 100%;
+}
+
+.registrationForm button {
+  width: 100%;
+  padding: 10px;
+}
